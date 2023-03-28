@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, rgba(156, 94, 182, 0.958), rgba(210, 93, 150, 0.929));
+    width: 100%;
+    left: 40%;
+    max-width: 1500px;
+    height: auto;
+    border-radius: 0px;
+}
+
+.div .form-group .form-control {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.div .form-group .form-control {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    padding-left: 30px;
+    border: black;
+    background: #eeeeee;
+}
+
+.container {
+    border-radius: 20px;
+    border-color: black;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
